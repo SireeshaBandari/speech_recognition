@@ -1,0 +1,2 @@
+Recognized_speech
+so in this lab we looked at how to create a component instance provided with the necessary accent security ssh into it and then interact with data on cloud storage and carry out a simple task which was
